@@ -1,0 +1,19 @@
+{ "relations": [
+  { "p1":"Hope Hicks", "p2":"Donald Trump", "r":"closest_aid_of", "page":"150" },
+  { "p1":"Steve Bannon", "p2":"Kellyann Conway", "r":"associates_with", "page":"188" },
+  { "p1":"Donald Trump", "p2":"Michael Flynn", "r":"early_supporter_of", "page":"103" },
+  { "p1":"Michael Flynn", "p2":"Herbert McMaster", "r":"replaced_by", "page":"188" },
+  { "p1":"Anthony Scaramucci", "p2":"Sean Spicer", "r":"resigns_because_of", "page":"282" },
+  { "p1":"Dina Powell", "p2":"Gary Cohn", "r":"collegue_of", "page":"145" },
+  { "p1":"Gary Cohn", "p2":"Steve Bannon", "r":"opposite_of", "page":"144" },
+  { "p1":"Reince Priebus", "p2":"John Kelly", "r":"replaced_by", "page":"285" },
+  { "p1":"Paul Ryan", "p2":"Steve Bannon", "r":"opposed_to", "page":"118" },
+  { "p1":"Rupert Murdoch", "p2":"Donald Trump", "r":"phones_with", "page":"60" },
+  { "p1":"Donald Trump", "p2":"James Comey", "r":"fires", "page":"217" },
+  { "p1":"John Kelly", "p2":"Steve Bannon", "r":"removes", "page":"300" },
+  { "p1":"Roger Ailes", "p2":"Donald Trump", "r":"kitchen_kabinet_of", "page":"210" },
+  { "p1":"Kellyanne Conway", "p2":"Donald Trump", "r":"principal_advisor_of", "page":"91" },
+  { "p1":"Kellyanne Conway", "p2":"Jared Kushner", "r":"connection_to", "page":"86" },
+  { "p1":"Kellyanne Conway", "p2":"Steve Bannon", "r":"connection_to", "page":"86" },
+  { "p1":"Kellyanne Conway", "p2":"Reince Priebus", "r":"connection_to", "page":"86" }
+]}

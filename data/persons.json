@@ -1,0 +1,36 @@
+{
+"Core":
+  [
+    {"name":"Donald Trump", "role":"POTUS" },
+    {"name":"Katie Walsh", "role":"dept. COS"},
+    {"name":"Kellyanne Conway", "role":"Aide"},
+    {"name":"Hope Hicks", "role":"Aide"}
+  ],
+
+"ModRep":
+  [
+    {"name":"Jared Kushner", "role":"New York Democrat"},
+    {"name":"Ivanka Trump", "role":"Daughter of potus"},
+    {"name":"Michael Flynn", "role":"NSA from 20 jan - 13 feb 2017"},
+    {"name":"Anthony Scaramucci", "role":"press secretary for 10 days"},
+    {"name":"Dina Powell", "role":"senior advisor on entrepreneurship"},
+    {"name":"Gary Cohn", "role":"national economic council"}
+  ],
+
+"RepEst":
+  [
+    {"name":"Reince Priebus", "role":"COS, establishment, republican"},
+    {"name":"Sean Spicer", "role":"press secretary"},
+    {"name":"Paul Ryan", "role":"speaker of the house"}
+  ],
+
+"AltRight":
+  [
+    {"name":"Steve Bannon", "role":"altright millitant"},
+    {"name":"Rupert Murdoch", "role":"CEO of Fox News"},
+    {"name":"Jeff Sessions", "role":"attorny general, russian connection"},
+    {"name":"John Kelly", "role":"COS as of July 2017"},
+    {"name":"James Comey", "role":"head of FBI"},
+    {"name":"Roger Ailes", "role":"head of Fox news"}
+  ]
+}
