@@ -10,21 +10,21 @@ In the second phase, specific details between players in the White House force f
 
 I have used neo4jrestclient for the first phase and the more native neo4j.v1 for the second, for no apparant reason. Both the data and the scripts are available on github. In order to populate the database, the following commands must be executed:
 
-<tt>
+<pre>
 $ python create_data.py
-$ pythin create_relations.py
-<tt>
+$ python create_relations.py
+</pre>
 
 The following svg is the current result of this work. In it, in purple we see potus sitting in the middle with his closest advisors Hicks and Walsh above him. Surrounding him, we see the three main factions in yellow, blue and red. According to Wolff, the communication between Trump and the principal representative of these factions goes through his principal adviser Kellyann Conway, so there are edges from her node to the three main players. From these nodes, sevaral relations fan out and the force field kind of becomes apparant.
 
 Now that I have this database ready, I will try to keep up with the (rapid) changes in the White House staff, using plain Cyper which will be collected in the update-script:
 
-<tt>
+<pre>
 $ python update.py
-</tt>
+</pre>
 
 
 Also, I will be adding functionality to the svg-graph (e.g. more information on the people involved) in the future.
 
-B. Barnard
+B. Barnard<br/>
 March 2018
